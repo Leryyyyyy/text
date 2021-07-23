@@ -1,0 +1,1 @@
+(self["webpackChunkPDS"]=self["webpackChunkPDS"]||[]).push([["mf-dep_7622"],{87622:function(e,n,t){"use strict";t.r(n),t.d(n,{getInstance:function(){return u.getInstance}});var u=t(38648);n["default"]=u.default}}]);
